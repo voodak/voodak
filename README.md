@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hola, I'm Manpreet Singh 👋
 
+- 🔭 I’m currently working on NaapLe
+ - - 🌱 I’m currently learning NodeJs
+  - - 👯 I’m looking to collaborate on Freelance Projects
+   - - 🤔 I’m looking for help with Building Personal Brand
+    - - 💬 Ask me about Anything. 'm a Curious Person.
+     - - 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/voodak/ or Email - ManpreetSinghMaan101@gmail.com
+      - - 😄 Pronouns: Voodak Founder - Manpreet Singh
+       - - ⚡ Fun fact: I am afraid of Selfies
 <!--
-**voodak/voodak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+
+
+
+
+
+
 -->
